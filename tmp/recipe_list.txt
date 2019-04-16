@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html>
+    <head>
+			<title>Laura in the Kitchen | The Official Home of Laura Vitale</title>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2454219107747983",
+    enable_page_level_ads: true
+  });
+</script>
+		
+        <!-- Meta tags -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="icon" type="image/png" href="favicon.png">
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/typography.css">
+        <link rel="stylesheet" href="css/fontawesome.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/colors.css">
+        <link rel="stylesheet" href="css/chosen.css">
+        <link rel="stylesheet" href="css/swiper.css">
+        <!-- Responsive -->
+        <link rel="stylesheet" media="(max-width:767px)" href="css/0-responsive.css">
+        <link rel="stylesheet" media="(min-width:768px) and (max-width:1024px)" href="css/768-responsive.css">
+        <link rel="stylesheet" media="(min-width:1025px) and (max-width:1199px)" href="css/1025-responsive.css">
+        <link rel="stylesheet" media="(min-width:1200px)" href="css/1200-responsive.css">
+        <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>		<meta name="viewport" content="width=device-width, user-scalable=no" />
+		<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30726050-1', 'laurainthekitchen.com');
+  ga('send', 'pageview');
+
+</script>
+    </head>
+    <body>
+
+        <!-- Wrapper -->
+        <div id="cs-wrapper" class="wide">
+
+            <!-- Header -->
+            <header id="cs-header-style-one">
+                <!-- Header main -->
+                <div id="cs-header-main">
+                    <div class="cs-container">
+                        <div class="cs-header-body-table">
+                            <div class="cs-header-body-row">
+                                <!-- Logo brand image -->
+                                <div id="cs-logo-brand">
+                                    <a href="index.php"><img src="logo.png" alt="Laura in the Kitchen"></a>
+                                </div><!-- end .cs-logo-brand -->
+                                <!-- Toggle button for menu -->
+                                <div class="cs-toggle-main-navigation">
+                                    <i class="fa fa-bars"></i>
+                                </div><!-- end .cs-toggle-main-navigation -->
+                                <!-- Main navigation -->
+                                                                <div class="cs-main-navigation-wrapper cs-menu-is-sticky">
+                                    <div id="cs-div-navigation">
+                                        <nav id="cs-main-navigation" class="cs-clearfix">
+                                            <ul class="cs-main-navigation cs-clearfix">
+                                                <li><a href="http://www.laurainthekitchen.com">Home</a></li>
+                                                <li><a href="recipe-search.php"><b><i class="fa fa-search"></i> Search Recipes</b></a>
+                                                <li><a href="#"><span>Categories</span></a>
+                                                    <ul class="sub-menu">
+														<li><a href="recipe-category.php">All Recipes</a></li>
+														<li><a href="recipe-category.php?category=POPULAR">Popular Recipes</a></li>
+                                                        <li><a href="recipe-category.php?category=BREAKFAST">Breakfast</a></li>
+                                                        <li><a href="recipe-category.php?category=DESSERT">Desserts</a></li>
+														<li><a href="#"><span>Holidays</span></a>
+															<ul class="sub-menu">
+																<li><a href="recipe-category.php?category=HOLIDAY">All Holiday Recipes</a></li>
+																<li><a href="recipe-category.php?category=CHRISTMAS">Christmas</a></li>
+																<li><a href="recipe-category.php?category=EASTER">Easter</a></li>
+																<li><a href="recipe-category.php?category=THANKSGIVING">Thanksgiving</a></li>
+															</ul>
+														</li>
+														<li><b><a href="recipe-category.php?category=EASTER">Easter</a></b></li>
+														<li><a href="recipe-category.php?category=APPETIZER">Appetizers</a></li>
+                                                        <li><a href="recipe-category.php?category=ENTREE">Entrees</a></li>
+														<li><a href="recipe-category.php?category=SIDE">Sides</a></li>
+														<li><a href="recipe-category.php?category=BEVERAGE">Drinks</a></li>
+														<li><a href="recipe-category.php?category=SANDWICH">Sandwiches</a></li>
+														<li><a href="recipe-category.php?category=SNACK">Snacks</a></li>
+														<li><a href="#"><span>Meats</span></a>
+															<ul class="sub-menu">
+																<li><a href="recipe-category.php?category=BEEF">Beef</a></li>
+																<li><a href="recipe-category.php?category=CHICKEN">Chicken</a></li>
+																<li><a href="recipe-category.php?category=PORK">Pork</a></li>
+															</ul>
+														</li>
+														<li><a href="recipe-category.php?category=SEAFOOD">Seafood</a></li>
+														<li><a href="recipe-category.php?category=VEGAN">Vegan</a></li>
+														<li><a href="recipe-category.php?category=VEGETARIAN">Vegetarian</a></li>
+                                                    </ul>
+                                                </li>
+												<li><a href="#"><span>Posts</span></a>
+													<ul class="sub-menu">
+														<li><a href="http://laurainthekitchen.com/p-laura-vitale-easter-menus.php">Easter Menu</a></li>
+                                                    </ul>
+												</li>
+												<li><a href="#"><span>Appearances</span></a>
+													<ul class="sub-menu">
+														<li><a href="https://www.cookingchanneltv.com/shows/simply-laura/recipes/recentlyaired-/p/1" target="_blank">Simply Laura (Cooking Channel)</a></li>
+														<li><a href="https://amzn.to/2uSpg45" target="_blank">Beat Bobby Flay (Host S15 Ep.10) - Mar 2018</a></li>
+														<li><a href="https://www.today.com/food/laura-vitale-makes-delicious-1-pan-herb-crusted-salmon-veggies-t132686" target="_blank">TODAY Show - Jul 2018</a></li>
+														<li><a href="https://www.today.com/video/how-to-get-3-delicious-family-meals-out-of-one-pot-roast-1137322563670" target="_blank">Megyn Kelly TODAY (Make Ahead Monday) - Jan 2018</a></li>
+														<li><a href="https://www.today.com/video/make-chicken-piccata-and-garlic-broccolini-delicious-and-healthy-too-1130091587795" target="_blank">TODAY Show - Jan 2018</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-rachael-ray-appearance-april-2017.php">Rachael Ray Show - Apr 2017</a></li>
+														<li><a href="https://amzn.to/2uOYLwt" target="_blank">Brunch @ Bobby's (S6 Ep.13) - Dec 2016</a></li>
+														<li><a href="https://amzn.to/2JmOvOV">Chopped Jr. (Judge) - Nov 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-september-2016-matt-lauer.php">TODAY Show - Sept 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-wendy-williams-april-2016.php">Wendy Williams - Apr 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-steve-harvey-april-2016.php">Steve Harvey - Apr 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2016-erica-hill.php">TODAY Show - Mar 2016</a></li>
+														<li><a href="https://amzn.to/2q80mI7" target="_blank">Sugar Showdown (Judge - S2 Eps6,14,15,20) - 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-october-2015-matt-lauer.php">TODAY Show - Oct 2015</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-january-2015-matt-lauer.php">TODAY Show - Jan 2015</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-october-2014-willie-geist.php">TODAY Show - Oct 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-july-2014-willie-geist.php">TODAY Show - Jul 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2014-carson-daly.php">TODAY Show - Mar 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2014-carson-daly.php">TODAY Show - Mar 2014</a></li>
+                                                    </ul>
+												</li>
+												<li><a href="shop.php">Shop</a></li><li></li>
+                                                <li><a href="contact.php">Contact</a></li><li></li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div><!-- end .cs-main-navigation-wrapper -->
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- end .cs-header-main -->
+            </header><!-- end .cs-header-style-one -->
+
+            <!-- Page title -->
+            <div class="cs-page-title">
+                <div class="cs-container">
+							<div style="height: 150px;  padding-bottom: 5px;">
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- Over Video Player Ad -->
+								<ins class="adsbygoogle"
+									 style="display:block"
+									 data-ad-client="ca-pub-2454219107747983"
+									 data-ad-slot="8777264070"
+									 data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+							</div>
+				<h1>Popular recipes</h1>                    
+                    <ul class="breadcrumb">
+                        <li><a href="http://www.laurainthekitchen.com">Home</a></li>
+						<li> Popular recipes</li>                    </ul>
+                </div>
+            </div><!-- end .cs-page-title -->
+
+            <!-- Main content and sidebar -->
+            <div class="cs-container">
+                <!-- Main content -->
+                <div class="cs-main-content cs-sidebar-on-the-right">
+                    <!-- Recipes category -->
+                    <div class="cs-recipes-category three-recipes">
+                        <ul class="cs-recipes">
+						
+												
+						
+						
+													<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/ultimate-nutella-milkshake/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/ultimate-nutella-milkshake/"><img src="squarethumbnails/ultimate-nutella-milkshake.jpg" alt="Ultimate Nutella Milkshake"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 1 </span>									<span><i class="fa fa-eye"></i> 1,076,813 Plays</span>
+                                </div>
+                                <h3><a href="recipes/ultimate-nutella-milkshake/">Ultimate Nutella Milkshake</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/chicken-fingers/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/chicken-fingers/"><img src="squarethumbnails/chicken-fingers.jpg" alt="Chicken Fingers"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 4 to 6, as an appetizer</span>									<span><i class="fa fa-eye"></i> 1,036,517 Plays</span>
+                                </div>
+                                <h3><a href="recipes/chicken-fingers/">Chicken Fingers</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/confetti-birthday-cake/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/confetti-birthday-cake/"><img src="squarethumbnails/confetti-birthday-cake.jpg" alt="Confetti Birthday Cake"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 8 to 10</span>									<span><i class="fa fa-eye"></i> 1,018,346 Plays</span>
+                                </div>
+                                <h3><a href="recipes/confetti-birthday-cake/">Confetti Birthday Cake</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/red-velvet-cake/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/red-velvet-cake/"><img src="squarethumbnails/red-velvet-cake.jpg" alt="Red Velvet Cake"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 10 to 12</span>									<span><i class="fa fa-eye"></i> 1,015,588 Plays</span>
+                                </div>
+                                <h3><a href="recipes/red-velvet-cake/">Red Velvet Cake</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/cookie-dough-ice-cream/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/cookie-dough-ice-cream/"><img src="squarethumbnails/cookie-dough-ice-cream.jpg" alt="Cookie Dough Ice Cream"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 6 to 8</span>									<span><i class="fa fa-eye"></i> 994,288 Plays</span>
+                                </div>
+                                <h3><a href="recipes/cookie-dough-ice-cream/">Cookie Dough Ice Cream</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/breakfast-casserole/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/breakfast-casserole/"><img src="squarethumbnails/breakfast-casserole.jpg" alt="Breakfast Casserole"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 6</span>									<span><i class="fa fa-eye"></i> 988,571 Plays</span>
+                                </div>
+                                <h3><a href="recipes/breakfast-casserole/">Breakfast Casserole</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/nutella-semifreddo/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/nutella-semifreddo/"><img src="squarethumbnails/nutella-semifreddo.jpg" alt="Nutella Semifreddo"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 8 to 10</span>									<span><i class="fa fa-eye"></i> 980,655 Plays</span>
+                                </div>
+                                <h3><a href="recipes/nutella-semifreddo/">Nutella Semifreddo</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/chocolate-ice-cream/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/chocolate-ice-cream/"><img src="squarethumbnails/chocolate-ice-cream.jpg" alt="Chocolate Ice Cream"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 6 to 8</span>									<span><i class="fa fa-eye"></i> 976,579 Plays</span>
+                                </div>
+                                <h3><a href="recipes/chocolate-ice-cream/">Chocolate Ice Cream</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/one-pot-chicken-and-rice/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/one-pot-chicken-and-rice/"><img src="squarethumbnails/one-pot-chicken-and-rice.jpg" alt="One Pot Chicken and Rice"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 4 to 6</span>									<span><i class="fa fa-eye"></i> 968,985 Plays</span>
+                                </div>
+                                <h3><a href="recipes/one-pot-chicken-and-rice/">One Pot Chicken and Rice</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/bomboloni-with-nutella/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/bomboloni-with-nutella/"><img src="squarethumbnails/bomboloni-with-nutella.jpg" alt="Bomboloni with Nutella"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Makes 1 dozen or so</span>									<span><i class="fa fa-eye"></i> 964,908 Plays</span>
+                                </div>
+                                <h3><a href="recipes/bomboloni-with-nutella/">Bomboloni with Nutella</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/homemade-baklava/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/homemade-baklava/"><img src="squarethumbnails/homemade-baklava.jpg" alt="Homemade Baklava"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 10 to 12</span>									<span><i class="fa fa-eye"></i> 961,484 Plays</span>
+                                </div>
+                                <h3><a href="recipes/homemade-baklava/">Homemade Baklava</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/best-oven-fries/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/best-oven-fries/"><img src="squarethumbnails/best-oven-fries.jpg" alt="Best Oven Fries"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 4</span>									<span><i class="fa fa-eye"></i> 959,341 Plays</span>
+                                </div>
+                                <h3><a href="recipes/best-oven-fries/">Best Oven Fries</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/red-velvet-cheesecake-brownies/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/red-velvet-cheesecake-brownies/"><img src="squarethumbnails/red-velvet-cheesecake-brownies.jpg" alt="Red Velvet Cheesecake Brownies"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Makes 16 Brownies</span>									<span><i class="fa fa-eye"></i> 953,476 Plays</span>
+                                </div>
+                                <h3><a href="recipes/red-velvet-cheesecake-brownies/">Red Velvet Cheesecake Brownies</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/fresh-fruit-popsicles/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/fresh-fruit-popsicles/"><img src="squarethumbnails/fresh-fruit-popsicles.jpg" alt="Fresh Fruit Popsicles"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serving size varies depending on the size of your molds.</span>									<span><i class="fa fa-eye"></i> 944,620 Plays</span>
+                                </div>
+                                <h3><a href="recipes/fresh-fruit-popsicles/">Fresh Fruit Popsicles</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/chewy-brownies/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/chewy-brownies/"><img src="squarethumbnails/chewy-brownies.jpg" alt="Chewy Brownies"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Makes 16 Brownies</span>									<span><i class="fa fa-eye"></i> 943,522 Plays</span>
+                                </div>
+                                <h3><a href="recipes/chewy-brownies/">Chewy Brownies</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/chocolate-peanut-butter-balls/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/chocolate-peanut-butter-balls/"><img src="squarethumbnails/chocolate-peanut-butter-balls.jpg" alt="Chocolate Peanut Butter Balls"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Makes a Few Dozen</span>									<span><i class="fa fa-eye"></i> 934,039 Plays</span>
+                                </div>
+                                <h3><a href="recipes/chocolate-peanut-butter-balls/">Chocolate Peanut Butter Balls</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/american-ground-beef-tacos/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/american-ground-beef-tacos/"><img src="squarethumbnails/american-ground-beef-tacos.jpg" alt="American Ground Beef Tacos"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 4</span>									<span><i class="fa fa-eye"></i> 924,253 Plays</span>
+                                </div>
+                                <h3><a href="recipes/american-ground-beef-tacos/">American Ground Beef Tacos</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/tuna-salad-sandwiches-/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/tuna-salad-sandwiches-/"><img src="squarethumbnails/tuna-salad-sandwiches-.jpg" alt="Tuna Salad Sandwiches "></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 4- 6</span>									<span><i class="fa fa-eye"></i> 911,903 Plays</span>
+                                </div>
+                                <h3><a href="recipes/tuna-salad-sandwiches-/">Tuna Salad Sandwiches </a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/devils-food-cake/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/devils-food-cake/"><img src="squarethumbnails/devils-food-cake.jpg" alt="Devil's Food Cake"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 10 to 12</span>									<span><i class="fa fa-eye"></i> 903,422 Plays</span>
+                                </div>
+                                <h3><a href="recipes/devils-food-cake/">Devil's Food Cake</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/japanese-cotton-cheesecake/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/japanese-cotton-cheesecake/"><img src="squarethumbnails/japanese-cotton-cheesecake.jpg" alt="Japanese Cotton Cheesecake"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 8 to 10 </span>									<span><i class="fa fa-eye"></i> 899,056 Plays</span>
+                                </div>
+                                <h3><a href="recipes/japanese-cotton-cheesecake/">Japanese Cotton Cheesecake</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/indian-inspired-butter-chicken/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/indian-inspired-butter-chicken/"><img src="squarethumbnails/indian-inspired-butter-chicken.jpg" alt="Indian Inspired Butter Chicken"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 8 to 10 </span>									<span><i class="fa fa-eye"></i> 898,584 Plays</span>
+                                </div>
+                                <h3><a href="recipes/indian-inspired-butter-chicken/">Indian Inspired Butter Chicken</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe first">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/cheesy-bacon-ranch-potatoes/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/cheesy-bacon-ranch-potatoes/"><img src="squarethumbnails/cheesy-bacon-ranch-potatoes.jpg" alt="Cheesy Bacon Ranch Potatoes"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 6</span>									<span><i class="fa fa-eye"></i> 895,657 Plays</span>
+                                </div>
+                                <h3><a href="recipes/cheesy-bacon-ranch-potatoes/">Cheesy Bacon Ranch Potatoes</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe ">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/vegetable-lasagna-/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/vegetable-lasagna-/"><img src="squarethumbnails/vegetable-lasagna-.jpg" alt="Vegetable Lasagna "></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 8 to 10 </span>									<span><i class="fa fa-eye"></i> 892,855 Plays</span>
+                                </div>
+                                <h3><a href="recipes/vegetable-lasagna-/">Vegetable Lasagna </a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+														<!-- Recipe -->
+                            <li class="cs-recipe last">
+                                <div class="cs-recipe-image">
+                                    <div class="cs-recipe-details-button">
+                                        <a href="recipes/restaurant-style-salsa/">Watch Now</a>
+                                    </div>
+                                    <a href="recipes/restaurant-style-salsa/"><img src="squarethumbnails/restaurant-style-salsa.jpg" alt="Restaurant Style Salsa"></a>
+                                </div>
+                                <div class="cs-recipe-meta">
+                                    
+                                    <span><i class="fa fa-cutlery"></i> Serves 6 </span>									<span><i class="fa fa-eye"></i> 887,555 Plays</span>
+                                </div>
+                                <h3><a href="recipes/restaurant-style-salsa/">Restaurant Style Salsa</a></h3>
+                            </li><!-- end .cs-recipe -->
+                            <!-- Recipe -->
+								                        </ul>
+                    </div><!-- end .cs-recipes-category -->
+                    <!-- Pagination -->
+                    <ul class="page-numbers">
+<li><a class="next page-numbers" href="recipe-category.php?screen=1&amp;category=POPULAR"><i class="fa fa-caret-left"></i> Previous Page</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=1&amp;category=POPULAR">1</a></li><li><span class="page-numbers current">2</span></li>  <li><a class="page-numbers" href="recipe-category.php?screen=3&amp;category=POPULAR">3</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=4&amp;category=POPULAR">4</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=5&amp;category=POPULAR">5</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=6&amp;category=POPULAR">6</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=7&amp;category=POPULAR">7</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=8&amp;category=POPULAR">8</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=9&amp;category=POPULAR">9</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=10&amp;category=POPULAR">10</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=11&amp;category=POPULAR">11</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=12&amp;category=POPULAR">12</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=13&amp;category=POPULAR">13</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=14&amp;category=POPULAR">14</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=15&amp;category=POPULAR">15</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=16&amp;category=POPULAR">16</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=17&amp;category=POPULAR">17</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=18&amp;category=POPULAR">18</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=19&amp;category=POPULAR">19</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=20&amp;category=POPULAR">20</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=21&amp;category=POPULAR">21</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=22&amp;category=POPULAR">22</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=23&amp;category=POPULAR">23</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=24&amp;category=POPULAR">24</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=25&amp;category=POPULAR">25</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=26&amp;category=POPULAR">26</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=27&amp;category=POPULAR">27</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=28&amp;category=POPULAR">28</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=29&amp;category=POPULAR">29</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=30&amp;category=POPULAR">30</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=31&amp;category=POPULAR">31</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=32&amp;category=POPULAR">32</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=33&amp;category=POPULAR">33</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=34&amp;category=POPULAR">34</a></li>  <li><a class="page-numbers" href="recipe-category.php?screen=35&amp;category=POPULAR">35</a></li><li><a class="next page-numbers" href="recipe-category.php?screen=3&amp;category=POPULAR">Next Page <i class="fa fa-caret-right"></i></a></li>                    </ul><!-- end .page-numbers -->
+                </div><!-- end .cs-main-content -->
+                <!-- Sidebar -->
+                <div class="cs-main-sidebar cs-sticky-sidebar">
+                    <!-- Widget recipe categories -->
+                                        <aside class="widget">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Large Skyscraper -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:300px;height:600px"
+							 data-ad-client="ca-pub-2454219107747983"
+							 data-ad-slot="4006808076"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script> 
+                    </aside>
+                    <!-- Widget tags -->
+                    <aside class="widget widget_tag_cloud">
+                        <h2 class="widget-title"><span>Recipe tags</span></h2>
+                        <div class="tagcloud">
+                            <a href="recipe-search.php?keywords=pasta">pasta</a>
+                            <a href="recipe-search.php?keywords=sauce">sauce</a>
+                            <a href="recipe-search.php?keywords=chilli">chilli</a>
+                            <a href="recipe-search.php?keywords=cheese">cheese</a>
+                            <a href="recipe-search.php?keywords=chicken">chicken</a>
+                            <a href="recipe-search.php?keywords=fish">fish</a>
+                            <a href="recipe-search.php?keywords=tomato">tomato</a>
+                            <a href="recipe-search.php?keywords=meat">meat</a>
+                            <a href="recipe-search.php?keywords=salt">salt</a>
+                            <a href="recipe-search.php?keywords=sugar">sugar</a>
+                            <a href="recipe-search.php?keywords=oil">oil</a>
+                            <a href="recipe-search.php?keywords=pumpkin">pumpkin</a>
+                            <a href="recipe-search.php?keywords=mushroom">mushroom</a>
+                            <a href="recipe-search.php?keywords=salmon">salmon</a>
+                            <a href="recipe-search.php?keywords=turkey">turkey</a>
+                            <a href="recipe-search.php?keywords=brownie">brownie</a>
+                            <a href="recipe-search.php?keywords=avocado">avocado</a>
+                            <a href="recipe-search.php?keywords=zucchini">zucchini</a>
+                            <a href="recipe-search.php?keywords=tuna">tuna</a>
+                        </div>
+                    </aside>
+                </div><!-- end .cs-main-sidebar -->
+            </div><!-- end .cs-container -->
+
+            <!-- Footer -->
+            <footer id="cs-footer">
+            <!-- Search recipes -->
+            <div class="cs-search-recipes-container">
+                                <div class="cs-container">
+                    <div class="cs-row">
+                        <form name="searchForm" action="recipe-search.php" method="get">
+                            <div class="cs-col cs-col-3-of-12">
+                                <label>Keywords (example: 'stuffing')</label>
+                                <input name="keywords" type="text" placeholder="Enter your keywords...">
+                            </div>
+                            <div class="cs-col cs-col-3-of-12">
+                                <label>OR Select Category</label>
+                                <select data-placeholder="All" class="chosen-select" id="category-selector">
+                                    <option></option>
+                                    <option value="APPETIZER">Appetizer</option>
+                                    <option value="BREAKFAST">Breakfast</option>
+                                    <option value="ENTREE">Entree</option>
+                                    <option value="SIDE">Side Dish</option>
+                                    <option value="DESSERT">Dessert</option>
+                                    <option value="BEVERAGE">Beverage</option>
+                                    <option value="SNACK">Snack</option>
+                                    <option value="SANDWICH">Sandwich</option>
+                                    <option value="CHICKEN">Chicken</option>
+                                    <option value="BEEF">Beef</option>
+                                    <option value="PORK">Pork</option>
+                                    <option value="VEGETARIAN">Vegetarian</option>
+                                    <option value="SEAFOOD">Seafood</option>
+                                </select>
+                            </div>
+                            <div class="cs-clearfix"></div>
+                            <div class="cs-col cs-col-3-of-12">
+                                <label>OR Select one or more ingredients</label>
+                                <select name="ingredient[]" id="ingredient-select" data-placeholder="Ingredients..." class="chosen-select" multiple>
+                                    <option></option>
+                                    <option> chicken </option>
+									<option> chicken breast </option>
+                                    <option> steak </option>
+									<option> lemon </option>
+									<option> ground beef </option>
+									<option> vanilla </option>
+									<option> orange </option>
+									<option> lemon curd </option>
+									<option> chocolate </option>
+									<option> cocoa </option>
+									<option> coffee </option>
+									<option> lime </option>
+									<option> yogurt </option>
+									<option> cherries </option>
+									<option> ham </option>
+									<option> celery </option>
+									<option> carrot </option>
+									<option> onion </option>
+									<option> garlic </option>
+									<option> olives </option>
+									<option> red pepper </option>
+									<option> green pepper </option>
+									<option> parsley </option>
+                                    <option> cilantro </option>
+									<option> pineapple </option>
+									<option> apple </option>
+									<option> pear </option>
+									<option> orange juice </option>
+									<option> bok choy </option>
+									<option> egg </option>
+									<option> tomato </option>
+									<option> onion </option>
+									<option> pasta </option>
+									<option> shanks </option>
+									<option> zucchini </option>
+									<option> sour cream </option>
+									<option> milk </option>
+									<option> asparagus </option>
+									<option> white rice </option>
+									<option> rice </option>
+									<option> brown rice </option>
+									<option> pita </option>
+									<option> tortilla </option>
+									<option> potatoes </option>
+									<option> tomatoes </option>
+									<option> rotisserie chicken </option>
+									<option> parmesan </option>
+									<option> capers </option>
+									<option> cream cheese </option>
+									<option> pizza dough </option>
+									<option> buttermilk </option>
+									<option> heavy cream </option>
+									<option> lettuce </option>
+									<option> eggplant </option>
+									<option> tofu </option>
+									<option> soy sauce </option>
+									<option> sriracha </option>
+									<option> white wine </option>
+									<option> red wine </option>
+									<option> arugola </option>
+									<option> rosemary </option>
+									<option> thyme </option>
+									<option> dijon mustard </option>
+									<option> mustard </option>
+									<option> cabbage </option>
+									<option> spinach </option>
+									<option> corn </option>
+									<option> prosciutto </option>
+									<option> mozzarella </option>
+									<option> bell peppers </option>
+									<option> almond milk </option>
+									<option> green beans </option>
+									<option> cheese </option>
+									<option> sweet potatoes </option>
+									<option> ranch </option>
+									<option> teriyaki sauce </option>
+									<option> salmon </option>
+									<option> pesto </option>
+									<option> mushroom </option>
+									<option> portabello mushroom </option>
+									<option> butter </option>
+									<option> marinara </option>
+                                </select>
+                            </div>
+							<div class="cs-col cs-col-3-of-12">
+                                <label>OR Enter Episode Number</label>
+                                <input name="episodeNumber" type="text" placeholder="Enter an episode number...">
+                            </div>
+                            <div class="cs-col cs-col-3-of-12">
+                                <input type="submit" value="Search" class="cs-btn cs-btn-large">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+				   <script language="JavaScript">
+					   document.getElementById('category-selector').onchange = function() {
+						  var selectedCategory = document.getElementById("category-selector").value;
+						  window.location = "recipe-category.php?category=" + selectedCategory;
+					   }
+					  
+				  </script>            </div><!-- end .cs-search-recipes-container -->
+                <div class="cs-container">
+                    <div class="cs-row">
+                        <div class="cs-col cs-col-4-of-12">
+							                    <!-- Widget latest recipes -->
+                            <aside class="widget">
+                                <h2 class="widget-title"><span>Latest recipes</span></h2>
+                                <div class="cs-widget_latest_posts">
+                                    									<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="recipes/epic-italian-meatloaf"><img src="500x300thumbnails/epic-italian-meatloaf.jpg" alt="Epic Italian Meatloaf"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="recipes/epic-italian-meatloaf">Epic Italian Meatloaf</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 0 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="recipes/berries-and-cream-crepes"><img src="500x300thumbnails/berries-and-cream-crepes.jpg" alt="Berries and Cream Crepes"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="recipes/berries-and-cream-crepes">Berries and Cream Crepes</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 68,021 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+									                                </div>
+                            </aside>                        </div>
+                        <div class="cs-col cs-col-4-of-12">
+							                            <aside class="widget widget_categories">
+                                <h2 class="widget-title"><span>Popular categories</span></h2>
+                                <ul>
+                                    <li><a href="recipe-category.php?category=DESSERT">Desserts</a></li>
+                                    <li><a href="recipe-category.php?category=BREAKFAST">Breakfast</a></li>
+                                    <li><a href="recipe-category.php?category=APPETIZER">Appetizers</a></li>
+                                    <li><a href="recipe-category.php?category=CHICKEN">Chicken</a></li>
+                                    <li><a href="recipe-category.php?category=SIDE">Sides</a></li>
+                                </ul>
+                            </aside>                        </div>
+                    </div>
+                </div>
+            </footer>
+
+            <!-- Copyright -->
+            <div id="cs-copyright">
+                <div class="cs-container">
+                    &copy; Copyright 2019. All rights reserved.
+                </div>
+            </div>
+
+        </div><!-- end #cs-wrapper -->
+
+        <!-- Javascripts -->
+        <script src="js/jquery.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/jquery-easing.js"></script>
+        <script src="js/jquery-fitvids.js"></script>
+        <script src="js/jquery-chosen.js"></script>
+        <script src="js/jquery-sticky.js"></script>
+        <script src="js/jquery-magnific.js"></script>
+        <script src="js/jquery-countdown.js"></script>
+        <script src="js/jquery-swiper.js"></script>
+        <script src="js/jquery-isotope.js"></script>
+        <script src="js/jquery-init.js"></script>
+        
+    </body>
+</html>

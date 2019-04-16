@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+		<title>Snickers Brownies Recipe| Laura in the Kitchen</title>
+		<meta property="og:title" content="Snickers Brownies Recipe" />
+		<meta property="og:site_name" content="Laura in the Kitchen" />
+		<meta property="og:description" content="In this episode of Laura in the Kitchen Laura Vitale shows you how to make Snickers Brownies!" />
+		<meta property="og:type" content="article" />
+        <meta property="og:image" content="http://www.laurainthekitchen.com/500x300thumbnails/snickers-brownies.jpg" />
+
+
+        <!-- Meta tags -->
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="../../favicon.ico">
+        <link rel="icon" type="image/png" href="../../favicon.png">
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../../css/normalize.css">
+        <link rel="stylesheet" href="../../css/typography.css">
+        <link rel="stylesheet" href="../../css/fontawesome.css">
+        <link rel="stylesheet" href="../../css/style.css">
+        <link rel="stylesheet" href="../../css/colors.css">
+        <link rel="stylesheet" href="../../css/chosen.css">
+        <link rel="stylesheet" href="../../css/swiper.css">
+        <!-- Responsive -->
+        <link rel="stylesheet" media="(max-width:767px)" href="../../css/0-responsive.css">
+        <link rel="stylesheet" media="(min-width:768px) and (max-width:1024px)" href="../../css/768-responsive.css">
+        <link rel="stylesheet" media="(min-width:1025px) and (max-width:1199px)" href="../../css/1025-responsive.css">
+        <link rel="stylesheet" media="(min-width:1200px)" href="../../css/1200-responsive.css">
+        <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script type="application/ld+json">
+     {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Snickers Brownies Recipe",
+      "image": "http://laurainthekitchen.com/squarethumbnails/snickers-brownies.jpg",
+      "author": {
+      "@type": "Person",
+      "name": "Laura Vitale"
+     },
+	      "prepTime": "PT10M",
+	 	      "cookTime": "PT40M",
+	      "recipeYield": "Serves 6 to 8",
+     "recipeIngredient": [
+"1/2 cup of Unsalted Butter, softened at room temperature",
+"10 oz of Semisweet Chocolate, melted",
+"1 cup of Granulated Sugar",
+"1/4 tsp of salt",
+"2 eggs",
+"1 cup of flour",
+"2-1/2 tbsp of Cocoa powder",
+"1/2 tsp of Instant espresso powder",
+"1 cup of Chopped up Snickers"									
+     ],
+     "recipeInstructions": "1) Preheat the oven to 350 degrees. Line a 8x8 inch square baking pan with parchment paper making sure it comes up the sides a bit, set aside.
+
+2) In the bowl of a standing mixer, cream together the butter and sugar, add the eggs and mix well.
+
+3) Add the melted chocolate, mix to incorporate. Add the flour, cocoa, espresso powder and salt. 
+
+4) Mix until everything is combined and the pieces of snickers and just mix to mix throughout the batter. 
+
+4) Spread the batter evenly in the prepared pan, bake them for about 35 to 40 minutes, allow them to cool completely before serving.
+"
+     }
+   </script>
+	<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58e6ba3e725f70001254d74a&product=sticky-share-buttons"></script>
+	<script type="text/javascript">
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-30726050-1', 'laurainthekitchen.com');
+	  ga('send', 'pageview');
+
+	</script>
+	<script type="text/javascript">
+	var myTrackURL = "/recipes/snickers-brownies?watching=true";
+	var trackCount = 0;
+	function timerTracking()
+	{
+	if (trackCount > 0 && trackCount < 10) {
+	ga('send', 'pageview', myTrackURL);
+	//_gaq.push(['_trackPageview', myTrackURL])
+	}
+	t=setTimeout("timerTracking()",285000);
+	trackCount = trackCount + 1;
+	}
+
+	timerTracking();
+
+	</script>
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "This website uses cookies to ensure you get the best experience."
+  }
+})});
+</script>
+    </head>
+    <body>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2454219107747983",
+    enable_page_level_ads: true
+  });
+</script>
+        <!-- Wrapper -->
+        <div id="cs-wrapper" class="wide">
+
+            <!-- Header -->
+            <header id="cs-header-style-one">
+                <!-- Header main -->
+                <div id="cs-header-main">
+                    <div class="cs-container">
+                        <div class="cs-header-body-table">
+                            <div class="cs-header-body-row">
+                                <!-- Logo brand image -->
+                                <div id="cs-logo-brand">
+                                    <a href="http://www.laurainthekitchen.com"><img src="../../logo.png" alt="Laura in the Kitchen"></a>
+                                </div><!-- end .cs-logo-brand -->
+                                <!-- Toggle button for menu -->
+                                <div class="cs-toggle-main-navigation">
+                                    <i class="fa fa-bars"></i>
+                                </div><!-- end .cs-toggle-main-navigation -->
+                                <!-- Main navigation -->
+                                                                <div class="cs-main-navigation-wrapper cs-menu-is-sticky">
+                                    <div id="cs-div-navigation">
+                                        <nav id="cs-main-navigation" class="cs-clearfix">
+                                            <ul class="cs-main-navigation cs-clearfix">
+                                                <li><a href="http://www.laurainthekitchen.com">Home</a></li>
+                                                <li><a href="../../recipe-search.php"><b><i class="fa fa-search"></i> Search Recipes</b></a>
+                                                <li><a href="#"><span>Categories</span></a>
+                                                    <ul class="sub-menu">
+														<li><a href="../../recipe-category.php">All Recipes</a></li>
+														<li><a href="../../recipe-category.php?category=POPULAR">Popular Recipes</a></li>
+                                                        <li><a href="../../recipe-category.php?category=BREAKFAST">Breakfast</a></li>
+                                                        <li><a href="../../recipe-category.php?category=DESSERT">Desserts</a></li>
+														<li><a href="#"><span>Holidays</span></a>
+															<ul class="sub-menu">
+																<li><a href="../../recipe-category.php?category=HOLIDAY">All Holiday Recipes</a></li>
+																<li><a href="../../recipe-category.php?category=CHRISTMAS">Christmas</a></li>
+																<li><a href="../../recipe-category.php?category=EASTER">Easter</a></li>
+																<li><a href="../../recipe-category.php?category=THANKSGIVING">Thanksgiving</a></li>
+															</ul>
+														</li>
+														<li><b><a href="../../recipe-category.php?category=EASTER">Easter</a></b></li>
+														<li><a href="../../recipe-category.php?category=APPETIZER">Appetizers</a></li>
+                                                        <li><a href="../../recipe-category.php?category=ENTREE">Entrees</a></li>
+														<li><a href="../../recipe-category.php?category=SIDE">Sides</a></li>
+														<li><a href="../../recipe-category.php?category=BEVERAGE">Drinks</a></li>
+														<li><a href="../../recipe-category.php?category=SANDWICH">Sandwiches</a></li>
+														<li><a href="../../recipe-category.php?category=SNACK">Snacks</a></li>
+														<li><a href="#"><span>Meats</span></a>
+															<ul class="sub-menu">
+																<li><a href="../../recipe-category.php?category=BEEF">Beef</a></li>
+																<li><a href="../../recipe-category.php?category=CHICKEN">Chicken</a></li>
+																<li><a href="../../recipe-category.php?category=PORK">Pork</a></li>
+															</ul>
+														</li>
+														<li><a href="../../recipe-category.php?category=SEAFOOD">Seafood</a></li>
+														<li><a href="../../recipe-category.php?category=VEGAN">Vegan</a></li>
+														<li><a href="../../recipe-category.php?category=VEGETARIAN">Vegetarian</a></li>
+                                                    </ul>
+                                                </li>
+												<li><a href="#"><span>Posts</span></a>
+													<ul class="sub-menu">
+														<li><a href="http://laurainthekitchen.com/p-laura-vitale-easter-menus.php">Easter Menu</a></li>
+                                                    </ul>
+												</li>
+												<li><a href="#"><span>Appearances</span></a>
+													<ul class="sub-menu">
+														<li><a href="https://www.cookingchanneltv.com/shows/simply-laura/recipes/recentlyaired-/p/1" target="_blank">Simply Laura (Cooking Channel)</a></li>
+														<li><a href="https://amzn.to/2uSpg45" target="_blank">Beat Bobby Flay (Host S15 Ep.10) - Mar 2018</a></li>
+														<li><a href="https://www.today.com/food/laura-vitale-makes-delicious-1-pan-herb-crusted-salmon-veggies-t132686" target="_blank">TODAY Show - Jul 2018</a></li>
+														<li><a href="https://www.today.com/video/how-to-get-3-delicious-family-meals-out-of-one-pot-roast-1137322563670" target="_blank">Megyn Kelly TODAY (Make Ahead Monday) - Jan 2018</a></li>
+														<li><a href="https://www.today.com/video/make-chicken-piccata-and-garlic-broccolini-delicious-and-healthy-too-1130091587795" target="_blank">TODAY Show - Jan 2018</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-rachael-ray-appearance-april-2017.php">Rachael Ray Show - Apr 2017</a></li>
+														<li><a href="https://amzn.to/2uOYLwt" target="_blank">Brunch @ Bobby's (S6 Ep.13) - Dec 2016</a></li>
+														<li><a href="https://amzn.to/2JmOvOV">Chopped Jr. (Judge) - Nov 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-september-2016-matt-lauer.php">TODAY Show - Sept 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-wendy-williams-april-2016.php">Wendy Williams - Apr 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-steve-harvey-april-2016.php">Steve Harvey - Apr 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2016-erica-hill.php">TODAY Show - Mar 2016</a></li>
+														<li><a href="https://amzn.to/2q80mI7" target="_blank">Sugar Showdown (Judge - S2 Eps6,14,15,20) - 2016</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-october-2015-matt-lauer.php">TODAY Show - Oct 2015</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-january-2015-matt-lauer.php">TODAY Show - Jan 2015</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-october-2014-willie-geist.php">TODAY Show - Oct 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-july-2014-willie-geist.php">TODAY Show - Jul 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2014-carson-daly.php">TODAY Show - Mar 2014</a></li>
+														<li><a href="http://laurainthekitchen.com/laura-vitale-today-show-march-2014-carson-daly.php">TODAY Show - Mar 2014</a></li>
+                                                    </ul>
+												</li>
+												<li><a href="../../shop.php">Shop</a></li><li></li>
+                                                <li><a href="../../contact.php">Contact</a></li><li></li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div><!-- end .cs-main-navigation-wrapper -->
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- end .cs-header-main -->
+            </header><!-- end .cs-header-style-one -->
+
+
+
+            <!-- Main content and sidebar -->
+            <div class="cs-container">
+							<div style="max-height: 150px; padding-bottom: 5px;">
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- Over Video Player Ad -->
+								<ins class="adsbygoogle"
+									 style="display:block"
+									 data-ad-client="ca-pub-2454219107747983"
+									 data-ad-slot="8777264070"
+									 data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+							</div>
+                <!-- Page title -->
+                <div class="cs-page-title" id="recipe-title">
+                    <h1>Snickers Brownies</h1>
+                    <ul class="breadcrumb">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="http://www.laurainthekitchen.com/recipe-category.php?category=POPULAR">Recipes</a></li>
+                        <li>Snickers Brownies</li>
+                    </ul>
+                </div><!-- end .cs-page-title -->
+                <!-- Main content -->
+                <div id="main-content" class="cs-main-content cs-sidebar-on-the-right">
+                    <div class="cs-row">
+                        <header class="cs-post-header">
+                            <div id="video-div" class="cs-post-media">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/IzJEvNNtwv4?rel=0" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                        </header>
+                    </div>
+                    <div class="cs-row">
+                        <div class="cs-col cs-col-6-of-12">
+						<iframe src=http://www.youtube.com/subscribe_widget?p=LauraVitalesKitchen style="overflow: hidden; height: 80px; border: 0;" scrolling="no" frameborder="0"></iframe>
+						<!-- Widget latest recipes -->
+                            <aside class="widget">
+                                <h2 class="widget-title"><span>Laura's Newest Recipe</span></h2>
+                                <div class="cs-widget_latest_posts">
+                                    									<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../fruity-crispy-treats?lr=1"><img src="../../500x300thumbnails/fruity-crispy-treats.jpg" alt="Fruity Crispy Treats"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../fruity-crispy-treats?lr=1">Fruity Crispy Treats</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 31,543 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+									                                </div>
+                            </aside>
+                            <!-- Ingredients check list -->
+                            
+							<!-- end .cs-recipe-meta-details -->
+                            <div class="cs-recipe-meta-details">
+                                <center><script type="text/javascript">
+											google_ad_client = "ca-pub-2454219107747983";
+											google_ad_slot = "3808331677";
+											google_ad_width = 300;
+											google_ad_height = 250;
+										</script>
+										<!-- Med Rectangle Recipe Page -->
+										<script type="text/javascript"
+										src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script></center>
+                            </div><!-- end .cs-recipe-meta-details -->
+							<!-- end .cs-ingredients-check-list -->
+                        </div>
+                        <div class="cs-col cs-col-6-of-12">
+                            <!-- About recipe -->
+                            <div class="cs-recipe-info">
+                                <h3>Recipe</h3>
+                                <p></p>
+                            </div><!-- end .cs-recipe-info -->
+                            <!-- Recipe details -->
+                            <div class="cs-recipe-details"  id="recipe-details">
+                                <div><span>Preparation</span>10 minutes</div>
+                                <div><span>Cook time</span>40 minutes</div>
+                                <div><span>Servings</span>Serves 6 to 8</div>
+								<div><span>Episode</span>821</div>
+                            </div><!-- end .cs-recipe-details -->
+                            <!-- Recipe meta details -->
+                            <div class="cs-recipe-meta-details">
+                                <div class="print"><a href="http://laurainthekitchen.com/all/recipepdf.php?episodeno=821" target="_blank"><i class="fa fa-print"></i>Print Recipe</a></div>
+                                <div class="views"><i class="fa fa-eye"></i>484,671</div>
+                            </div><!-- end .cs-recipe-meta-details -->
+							<div class="cs-ingredients-check-list" id="recipe-ingredients">
+                                <h3>Ingredients</h3>
+                                <ul>
+								<li><div class="check-box"><i class="fa fa-check"></i></div>1/2 cup of Unsalted Butter, softened at room temperature</li><li><div class="check-box"><i class="fa fa-check"></i></div>10 oz of Semisweet Chocolate, melted</li><li><div class="check-box"><i class="fa fa-check"></i></div>1 cup of Granulated Sugar</li><li><div class="check-box"><i class="fa fa-check"></i></div>1/4 tsp of salt</li><li><div class="check-box"><i class="fa fa-check"></i></div>2 eggs</li><li><div class="check-box"><i class="fa fa-check"></i></div>1 cup of flour</li><li><div class="check-box"><i class="fa fa-check"></i></div>2-1/2 tbsp of Cocoa powder</li><li><div class="check-box"><i class="fa fa-check"></i></div>1/2 tsp of Instant espresso powder</li><li><div class="check-box"><i class="fa fa-check"></i></div>1 cup of Chopped up Snickers</li>                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cs-row">
+                        <div class="cs-col cs-col-12-of-12">
+                            <!-- Preparations steps -->
+                            <div class="cs-recipe-single-preparation" id="recipe-process">
+                                <h3>Preparation</h3>
+                                <ul>
+                                    1) Preheat the oven to 350 degrees. Line a 8x8 inch square baking pan with parchment paper making sure it comes up the sides a bit, set aside.<br />
+<br />
+2) In the bowl of a standing mixer, cream together the butter and sugar, add the eggs and mix well.<br />
+<br />
+3) Add the melted chocolate, mix to incorporate. Add the flour, cocoa, espresso powder and salt. <br />
+<br />
+4) Mix until everything is combined and the pieces of snickers and just mix to mix throughout the batter. <br />
+<br />
+4) Spread the batter evenly in the prepared pan, bake them for about 35 to 40 minutes, allow them to cool completely before serving.<br />
+                                </ul>
+                            </div><!-- end .cs-recipe-single-preparation -->
+                        </div>
+                    </div>
+                </div><!-- end .cs-main-content -->
+                <!-- Sidebar -->
+                <div class="cs-main-sidebar cs-sticky-sidebar">
+                    <!-- Widget recipe categories -->
+                    <aside class="widget">
+						<center>
+						<script type="text/javascript">
+							google_ad_client = "ca-pub-2454219107747983";
+							google_ad_slot = "4006808076";
+							google_ad_width = 300;
+							google_ad_height = 600;
+						</script>
+						<!-- Large Skyscraper -->
+						<script type="text/javascript"
+						src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script></center>
+                    </aside>
+                    <!-- Widget latest recipes -->
+							<aside class="widget">
+                                <h2 class="widget-title"><span>Still Hungry?</span></h2>
+                                <div class="cs-widget_latest_posts">
+                                    									<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../stuffing-muffins"><img src="../../500x300thumbnails/stuffing-muffins.jpg" alt="Stuffing Muffins"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../stuffing-muffins">Stuffing Muffins</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 107,005 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../croque-madam"><img src="../../500x300thumbnails/croque-madam.jpg" alt="Croque Madam"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../croque-madam">Croque Madam</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 696,452 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../nutella-cookie-trifle-dessert"><img src="../../500x300thumbnails/nutella-cookie-trifle-dessert.jpg" alt="Nutella Cookie Trifle Dessert"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../nutella-cookie-trifle-dessert">Nutella Cookie Trifle Dessert</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 443,280 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../nonna-stuffed-calamari"><img src="../../500x300thumbnails/nonna-stuffed-calamari.jpg" alt="Nonna's Stuffed Calamari "></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../nonna-stuffed-calamari">Nonna's Stuffed Calamari </a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 331,177 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../one-pot-single-step-spaghetti"><img src="../../500x300thumbnails/one-pot-single-step-spaghetti.jpg" alt="One Pot Single Step Spaghetti"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../one-pot-single-step-spaghetti">One Pot Single Step Spaghetti</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 632,587 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+									                                </div>
+                            </aside>
+					<aside class="widget">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-2454219107747983"
+     data-ad-slot="2646345271"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+					</aside>
+
+                </div><!-- end .cs-main-sidebar -->
+            </div><!-- end .cs-container -->
+            <!-- Footer -->
+            <footer id="cs-footer">
+                <div class="cs-container">
+                    <div class="cs-row">
+                        <div class="cs-col cs-col-4-of-12">
+                                                <!-- Widget latest recipes -->
+                            <aside class="widget">
+                                <h2 class="widget-title"><span>Latest recipes (<a href="http://laurainthekitchen.com/recipe-category.php">See all</a>)</span></h2>
+                                <div class="cs-widget_latest_posts">
+                                    									<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../fruity-crispy-treats"><img src="../../500x300thumbnails/fruity-crispy-treats.jpg" alt="Fruity Crispy Treats"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../fruity-crispy-treats">Fruity Crispy Treats</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 31,543 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+																		<!-- Post item -->
+                                    <div class="cs-post-item">
+                                        <div class="cs-post-thumb">
+                                            <a href="../epic-italian-meatloaf"><img src="../../500x300thumbnails/epic-italian-meatloaf.jpg" alt="Epic Italian Meatloaf"></a>
+                                        </div>
+                                        <div class="cs-post-inner">
+                                            <h3><a href="../epic-italian-meatloaf">Epic Italian Meatloaf</a></h3>
+                                            <div class="cs-post-meta">
+                                                <span><i class="fa fa-eye"></i> 46,190 Plays</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Post item -->
+									                                </div>
+                            </aside>                        </div>
+						<div class="cs-col cs-col-4-of-12">
+						 </div>
+                        <div class="cs-col cs-col-4-of-12">
+                                                        <aside class="widget widget_categories">
+                                <h2 class="widget-title"><span>Popular categories</span></h2>
+                                <ul>
+                                    <li><a href="../../recipe-category.php?category=DESSERT">Desserts</a></li>
+                                    <li><a href="../../recipe-category.php?category=BREAKFAST">Breakfast</a></li>
+                                    <li><a href="../../recipe-category.php?category=APPETIZER">Appetizers</a></li>
+                                    <li><a href="../../recipe-category.php?category=CHICKEN">Chicken</a></li>
+                                    <li><a href="../../recipe-category.php?category=SIDE">Sides</a></li>
+                                </ul>
+                            </aside>                        </div>
+                    </div>
+                </div>
+            </footer>
+
+            <!-- Copyright -->
+            <div id="cs-copyright">
+                <div class="cs-container">
+                    &copy; Copyright 2019. All rights reserved. <a href="http://www.LauraintheKitchen.com/contact.php">Contact</a>
+                </div>
+            </div>
+
+        </div><!-- end #cs-wrapper -->
+
+        <!-- Javascripts -->
+        <script src="../../js/jquery.js"></script>
+        <script src="../../js/jquery-ui.js"></script>
+        <script src="../../js/jquery-easing.js"></script>
+        <script src="../../js/jquery-fitvids.js"></script>
+        <script src="../../js/jquery-chosen.js"></script>
+        <script src="../../js/jquery-sticky.js"></script>
+        <script src="../../js/jquery-magnific.js"></script>
+        <script src="../../js/jquery-countdown.js"></script>
+        <script src="../../js/jquery-swiper.js"></script>
+        <script src="../../js/jquery-isotope.js"></script>
+        <script src="../../js/jquery-init.js"></script>
+        
+    </body>
+</html>
+
